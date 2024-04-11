@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADHDboy
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cloud Technologies, COMPTIA Security +, The Art of Hacking, & more
+- 👀 Cyber Security Expert
+
 
 
 <!---
